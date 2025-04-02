@@ -1,0 +1,31 @@
+What is a Terminal?
+A terminal is a command-line interface (CLI) that allows users to interact with the operating system by typing commands instead of using a graphical user interface (GUI). It is a text-based environment where users can run commands to navigate files, execute programs, and manage the system.
+
+🔹 Examples of Terminals:
+
+Linux/macOS: Terminal, Konsole, GNOME Terminal
+
+Windows: Command Prompt (cmd), PowerShell, Windows Terminal
+
+What is Bash?
+Bash (Bourne Again Shell) is a command-line interpreter (shell) for Unix-based operating systems. It interprets user commands and executes them in the system. Bash is one of the most widely used shells in Linux and macOS.
+
+🔹 Key Features of Bash:
+✔️ Supports scripting (Bash scripts)
+✔️ Command history & autocompletion
+✔️ Supports loops, conditions, and variables
+
+Terminal    vs.     Bash (Key Difference)
+Feature	   :     Terminal	                         :   Bash
+Definition :    Interface to interact with OS	     :   Shell that interprets commands
+Function   :    Displays command output	             :   Processes commands
+Usage	   :    Runs multiple shells (like Bash, Zsh):	Executes Unix shell commands
+Example	   :    GNOME Terminal, Windows Terminal	 :   Bash, Zsh, Fish
+📌 In simple terms:
+
+Terminal = The screen where you type commands.
+
+Bash = The program that processes the commands inside the terminal.
+
+💡 Example:
+When you open Terminal on Linux/macOS and type ls, the terminal sends the command to Bash, which then executes it and displays the result.

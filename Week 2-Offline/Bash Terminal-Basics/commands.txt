@@ -1,0 +1,57 @@
+1. pwd (Print Working Directory)
+Displays the current working directory path.
+pwd
+
+2. cd (Change Directory)
+Moves between directories.
+cd /path/to/directory
+cd ..   # Move up one level
+cd ~    # Go to home directory
+
+3. ls (List Files and Directories)
+Lists contents of a directory.
+ls       # List files in current directory
+ls -l    # Long listing format
+ls -a    # Show hidden files
+
+4. mkdir (Make Directory)
+Creates a new directory.
+mkdir new_folder
+
+5. touch
+Creates an empty file or updates its timestamp.
+touch file.txt
+
+6. cat (Concatenate and Display File Contents)
+Displays contents of a file.
+cat file.txt
+
+7. vi (Text Editor)
+Opens the vi text editor.
+vi file.txt
+
+8. mv (Move/Rename Files)
+Moves or renames files and directories.
+mv oldname.txt newname.txt   # Rename file
+mv file.txt /new/location/   # Move file to another directory
+
+9. cp (Copy Files)
+Copies files or directories.
+cp file.txt backup.txt       # Copy file
+cp -r folder1 folder2        # Copy directory recursively
+
+10. nvm (Node Version Manager)
+Manages multiple Node.js versions.
+nvm install 16       # Install Node.js v16
+nvm use 18           # Use Node.js v18
+
+11. npm (Node Package Manager)
+Manages Node.js packages.
+npm install express   # Install a package
+npm init              # Initialize a Node.js project
+
+12. node (Run Node.js)
+Runs a Node.js script or interactive shell.
+node script.js   # Run a JS file
+node             # Open Node.js REPL
+
